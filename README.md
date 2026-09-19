@@ -1,7 +1,7 @@
 # Product-Insights-Excel-assignment-1
-# 📊 Excel Product Dataset Analysis
+# 📊Excel Product Dataset Analysis
 
-#📌 Project Overview
+#Project Overview
 
 This project demonstrates my foundational **Data Analysis skills using Microsoft Excel**. The objective was to explore a product dataset, perform basic statistical calculations, apply conditional logic, and extract useful information from text-based Product IDs.
 
@@ -10,7 +10,7 @@ The project focuses on essential Excel functions that are commonly used in data 
 This project is part of my **Data Analytics learning journey and portfolio development**.
 
 
-#📂 Dataset
+#Dataset
 
 The dataset contains information about different products and includes the following attributes:
 
@@ -35,7 +35,7 @@ The dataset contains products from categories such as:
 * and other product categories
 
 
-#🎯 Objectives
+#Objectives
 
 The main objectives of this project were to:
 
@@ -80,11 +80,7 @@ Through this project, I practiced the following data-analysis skills:
 The repository contains:
 
 Excel-Product-Dataset-Analysis/
-│
-├── README.md
-├── Product_Dataset_Analysis.xlsx
-└── screenshots/
-    └── Excel_Analysis.png
+README.md ;Product_Dataset_Analysis.xlsx ;screenshots ;Excel_Analysis.png
 
 #Key Learning Outcomes
 
